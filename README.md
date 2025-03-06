@@ -3,7 +3,7 @@ Helloooooo
 
 Still new at coding, and likes to design things randomly. Often Testing Bunch off LLMs with CPU Processing and Testing Up-scaling NCNN Performance. Most my skills are basic and nothing special. Have used couple Apps such as Photoshop, Illustrator, Figma, and Docker. Preferred to use Arch Linux or Windows 11.
 
-* 🧠  I'm learning HTML and CSS
+* I'm learning HTML and CSS, and continuing my python skills.
 
 ### Skills
 
