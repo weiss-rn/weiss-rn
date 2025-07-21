@@ -1,6 +1,10 @@
 Helloooooo, This is Weiss.
 ======================
 
+<div style="width: 100%;">
+  <img src="/src/hello.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 Beginner at coding, and likes to design things randomly. Often Testing Bunch off LLMs with CPU Processing and Testing NCNN's Performance especially on Mobile Platforms. Most my skills are basic and nothing special. Have used couple Apps such as Photoshop, Illustrator, Figma, and Docker. Preferred to use Arch Linux or Windows 11. Actively Testing LLMs with Smaller parameters (e.g. Deepseek 1.5B and Gemma 3B) over CPU Processing on Android and Windows.
 
 * Learning HTML, CSS JavaScript, and Expanding my Python skills.
