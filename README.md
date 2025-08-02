@@ -1,17 +1,19 @@
-Helloooooo, This is Weiss.
+Hello, This is Weiss.
 ======================
 
 <div style="width: 100%;">
   <img src="/src/hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-Beginner at coding, and likes to design things randomly. Often Testing Bunch off LLMs with CPU Processing and Testing NCNN's Performance especially on Mobile Platforms. Most my skills are basic and nothing special. Have used couple Apps such as Photoshop, Illustrator, Figma, and Docker. Preferred to use Arch Linux or Windows 11. Actively Testing LLMs with Smaller parameters (e.g. Deepseek 1.5B and Gemma 3B) over CPU Processing on Android and Windows.
+Beginner at coding, and likes to design things randomly. Often Testing Bunch off LLMs and Testing NCNN's Performance especially on Mobile devices. 
+Most my skills are basic and nothing special. Have used couple Apps such as Photoshop, Illustrator, Figma, and Docker. 
+Preferred to use Arch Linux or Windows 11. Actively Benchmarking LLMs using three different Setup.
 
-* Learning HTML, CSS JavaScript, and Expanding my Python skills.
+* Learning HTML, CSS JavaScript.
+* Expanding my Programming Language from Python to C++ 
 
 ### Socials
-
-<p align="left"> <a href="https://www.github.com/weiss-gcm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+No I don't use any Socials...
 
 ### Badges
 
