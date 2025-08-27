@@ -4,7 +4,6 @@ Hello, This is Weiss.
 <div style="width: 100%;">
   <img src="/src/hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-
 <p align="left">I am a novice developer with a passion for experimental design and exploration of emerging technologies. My current focus includes evaluating various Large Language Models (LLMs) and benchmarking Neural Network Computing Framework (NCNN) performance across portable computing platforms, including Android devices and laptops. While my technical expertise remains foundational, I am actively developing proficiency across multiple domains. My toolkit includes experience with industry-standard applications such as Adobe Photoshop, Adobe Illustrator, Figma, and Docker containerization. My preferred development environments are Arch Linux and Windows 11, with Windows 11 serving as my primary platform as of August 2025.</p>
 
 ###
@@ -87,18 +86,19 @@ Hello, This is Weiss.
 
 ###
 
-<h3 align="center">Stats</h3>
+<h3 align="left">Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=weiss-rn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=%E4%B8%80%E7%95%AA%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E" height="230" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=weiss-rn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=weiss-rn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=%E4%B8%80%E7%95%AA%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/weiss-rn/weiss-rn/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
