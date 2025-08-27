@@ -5,27 +5,100 @@ Hello, This is Weiss.
   <img src="/src/hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-Beginner at coding, and likes to design things randomly. Often Testing Bunch off LLMs and Testing NCNN's Performance especially on Mobile devices. 
-Most my skills are basic and nothing special. Have used couple Apps such as Photoshop, Illustrator, Figma, and Docker. 
-Preferred to use Arch Linux or Windows 11. Actively Benchmarking LLMs using three different Setup.
+<p align="left">I am a novice developer with a passion for experimental design and exploration of emerging technologies. My current focus includes evaluating various Large Language Models (LLMs) and benchmarking Neural Network Computing Framework (NCNN) performance across portable computing platforms, including Android devices and laptops. While my technical expertise remains foundational, I am actively developing proficiency across multiple domains. My toolkit includes experience with industry-standard applications such as Adobe Photoshop, Adobe Illustrator, Figma, and Docker containerization. My preferred development environments are Arch Linux and Windows 11, with Windows 11 serving as my primary platform as of August 2025.</p>
 
-* Learning HTML, CSS JavaScript.
-* Expanding my Programming Language from Python to C++ 
+###
 
-### Socials
-No I don't use any Socials...
+<h3 align="left">Overview</h3>
 
-### Badges
+###
 
-<b>My GitHub Stats</b>
+<h4 align="center">Programming Language</h4>
 
-<a href="http://www.github.com/weiss-rn"><img src="https://github-readme-stats.vercel.app/api?username=weiss-rn&show_icons=true&hide=stars,prs,&count_private=true&title_color=64748b&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="weiss-rn's GitHub stats" /></a>
+###
 
-<a href="http://www.github.com/weiss-rn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=weiss-rn&stroke=ffffff&background=000000&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28" alt="python logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="cplusplus logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="javascript logo"  />
+</div>
 
-<a href="http://www.github.com/weiss-rn"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=weiss-rn&bg_color=000000&color=ffffff&line=ec4899&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+###
 
-<a href="https://github.com/weiss-rn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiss-rn&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h4 align="center">Design Tools</h4>
 
+###
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="28" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="28" alt="adobeillustrator logo"  />
+</div>
+
+###
+
+<h4 align="center">Web Development</h4>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="28" alt="css logo"  />
+</div>
+
+###
+
+<h4 align="center">Additional Skills & Tools</h4>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="28" alt="adobeillustrator logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="28" alt="adobephotoshop logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Adobe Audition-9999FF?logo=adobeaudition&logoColor=black&style=for-the-badge" height="28" alt="adobeaudition logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="28" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="28" alt="gitlab logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="28" alt="neovim logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="28" alt="pytorch logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="28" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="28" alt="googlecloud logo"  />
+</div>
+
+###
+
+<h3 align="center">Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=weiss-rn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=%E4%B8%80%E7%95%AA%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E" height="230" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=weiss-rn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/weiss-rn/weiss-rn/output/snake.svg" alt="Snake animation" />
+
+###
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
