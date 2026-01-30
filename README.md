@@ -11,6 +11,5 @@ I also learn code with CS50 Havard, freecodecamp, and W3School.
 
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiss-rn&theme=default&show_icons=true&hide_border=true&layout=compact" alt="weiss-rn's GitHub Stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=weiss-rn&theme=default&show_icons=true&hide_border=true&count_private=true" alt="weiss-rn's GitHub Stats" height="150"/>
-
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=weiss-rn&theme=default&show_icons=true&hide_border=true&count_private=true" alt="weiss-rn's GitHub Stats" height="150"/> -->
 </div>
