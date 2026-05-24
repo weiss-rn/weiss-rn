@@ -20,8 +20,9 @@ jobs:
 
       - name: Download GitHub Stats card
         run: |
-          curl -s \
-            "https://github-readme-stats-five-bay-26.vercel.app//api?username=weiss-rn&show_icons=true&include_all_commits=true&count_private=true" \
+            curl -s \
+            -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" \
+            "https://YOUR_VERCEL_URL/api?username=weiss-rn&show_icons=true&include_all_commits=true&count_private=true" \
             -o assets/stats.svg
 
       - name: Download Top Languages card
