@@ -8,7 +8,6 @@ I can draw and translate English to Indonesian and Japanese too.
 I also learn code with CS50 Havard, freecodecamp, and W3School.
 
 ###
-<p align="center">
-  <img height="180em" src="./assets/stats.svg" />
+<p align="left">
   <img height="180em" src="./assets/top-langs.svg" />
 </p>
