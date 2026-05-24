@@ -21,13 +21,13 @@ jobs:
       - name: Download GitHub Stats card
         run: |
           curl -s \
-            "https://github-readme-stats.vercel.app/api?username=weiss-rn&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" \
+            "https://github-readme-stats-five-bay-26.vercel.app//api?username=weiss-rn&show_icons=true&include_all_commits=true&count_private=true" \
             -o assets/stats.svg
 
       - name: Download Top Languages card
         run: |
           curl -s \
-            "https://github-readme-stats.vercel.app/api/top-langs?username=weiss-rn&layout=compact&langs_count=8&count_private=true" \
+            "https://github-readme-stats-five-bay-26.vercel.app/api/top-langs?username=weiss-rn&layout=compact&langs_count=8&count_private=true" \
             -o assets/top-langs.svg
 
       - name: Commit and push changes
