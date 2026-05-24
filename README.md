@@ -8,10 +8,7 @@ I can draw and translate English to Indonesian and Japanese too.
 I also learn code with CS50 Havard, freecodecamp, and W3School.
 
 ###
-
-<div align="left">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiss-rn&theme=default&show_icons=true&hide_border=true&layout=compact" alt="weiss-rn's GitHub Stats" height="150"/> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=weiss-rn&theme=default&show_icons=true&hide_border=true&count_private=true" alt="weiss-rn's GitHub Stats" height="150"/> -->
-  <img height="180em" src="./assets/stats.svg" alt="weiss-rn's GitHub Stats" />
-  <img height="180em" src="./assets/top-langs.svg" alt="weiss-rn's Top Languages" />
-</div>
+<p align="center">
+  <img height="180em" src="./assets/stats.svg" />
+  <img height="180em" src="./assets/top-langs.svg" />
+</p>
